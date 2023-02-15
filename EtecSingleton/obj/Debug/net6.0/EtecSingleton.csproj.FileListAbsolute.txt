@@ -1,0 +1,15 @@
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\bin\Debug\net6.0\EtecSingleton.exe
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\bin\Debug\net6.0\EtecSingleton.deps.json
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\bin\Debug\net6.0\EtecSingleton.runtimeconfig.json
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\bin\Debug\net6.0\EtecSingleton.dll
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\bin\Debug\net6.0\EtecSingleton.pdb
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\EtecSingleton.csproj.AssemblyReference.cache
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\EtecSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\EtecSingleton.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\EtecSingleton.AssemblyInfo.cs
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\EtecSingleton.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\EtecSingleton.dll
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\refint\EtecSingleton.dll
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\EtecSingleton.pdb
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\EtecSingleton.genruntimeconfig.cache
+C:\Desenvolvimento\Aulas\EtecExemplos\EtecSingleton\obj\Debug\net6.0\ref\EtecSingleton.dll
